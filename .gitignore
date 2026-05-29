@@ -11,4 +11,3 @@ terraform/terraform.tfvars
 
 # OS files
 .DS_Store
-grading.json
